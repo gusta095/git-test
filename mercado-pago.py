@@ -3,3 +3,5 @@ msg_2 = 'messages de ano novo'
 
 print(f'{msg_1}')
 print(f'{msg_2}')
+
+# vamos brincar de resolver conflitos
