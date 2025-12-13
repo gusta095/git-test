@@ -1,4 +1,4 @@
-msg = mensagem de natal
+msg = 'messages de natal'
 
 print(f'{msg}')
 
