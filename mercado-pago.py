@@ -1,4 +1,3 @@
-msg = mensagem de natal
+msg_1 = 'messages de natal'
 
-print(f'{msg}')
-
+print(f'{msg_1}')
