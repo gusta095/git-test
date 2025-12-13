@@ -1,2 +1,4 @@
-print(f'mensagem de natal')
+msg = mensagem de natal
+
+print(f'{msg}')
 
